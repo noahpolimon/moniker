@@ -6,8 +6,8 @@ Flatpak to run them. This aims to provide a better experience and simplify using
 ### ⚠️ *This project is still under development*
 
 ### Feature Roadmap:
--[ ] Get basics working
--[ ] Rename aliases after creation
--[ ] Run in the background
+- [ ] Get basics working
+- [ ] Rename aliases after creation
+- [ ] Run in the background
 
   - Opened to suggestions
